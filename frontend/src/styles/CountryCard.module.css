@@ -1,0 +1,19 @@
+
+.container {
+  border-radius: 8px;
+  border: 1px solid lightgray;
+  color: inherit;
+  background-color: transparent;
+  padding: 15px;
+  text-align: center;
+  cursor: pointer;
+  transition: background-color 0.3s; 
+}
+
+.card {
+  padding: 10px;
+}
+
+.emoji {
+  font-size: 36px;
+}
